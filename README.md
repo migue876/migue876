@@ -1,5 +1,5 @@
 <div align="Center">
-    <h1> Hola, soy Miguel Angel Gómez👋🏻  </h1>
+    <h1> Hola, soy Miguel Ángel Gómez Ladino👋🏻  </h1>
     <img src="imageMiguelGithub.png" width="300px" height="250px">
 </div>
 
